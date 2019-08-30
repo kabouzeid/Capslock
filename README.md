@@ -6,12 +6,9 @@
 ## Install
 
 1. Download [Karabiner-Elements](https://pqrs.org/osx/karabiner/) and Install
-2. Copy URL to your browser to import configuration script.
+2. Open the URL in Safari to import the configuration.
+<karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/kabouzeid/Capslock/master/capslock.json>
 
-```bash
-# This Repo (open in safari)
-karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/kabouzeid/Capslock/master/capslock.json
-```
 3. Open Karabiner, Tab "ComplexModification", Button "Add Item", and enable entries you like.
 4. Default conf file path is `$HOME/.config/karabiner/assets/complex_modifications`.
 5. Enable functions: `[App] karabiner-elements -> [Tab] Complex Modification -> Add Item`
