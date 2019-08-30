@@ -1,42 +1,25 @@
-# CapsLock Mac Version
+# CapsLock
 
-* CapsLock Enhancement (mac) is based on Project [`Karabiner-Elements`](https://pqrs.org/osx/karabiner/)
-
-* Current release of karabiner works on following macOS:
-
-  * macOS High Sierra (10.13)
-  * macOS Sierra (10.12)
-  * macOS EI Capitan (10.11)
-
-* For older OS X user, refers to [old](../mac-old) `karabiner` XML-Format configuration script.
+* CapsLock Enhancement is based on Project [`Karabiner-Elements`](https://pqrs.org/osx/karabiner/)
 
 
-
-## Install (mac)
+## Install
 
 1. Download [Karabiner-Elements](https://pqrs.org/osx/karabiner/) and Install
 2. Copy URL to your browser to import configuration script.
 
 ```bash
 # This Repo (open in safari)
-karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Vonng/Capslock/master/mac/capslock.json
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/kabouzeid/Capslock/master/capslock.json
 ```
-
-```bash
-# Karabiner-Elements Offical Script Gallery
-karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs.org%2Fosx%2Fkarabiner%2Fcomplex_modifications%2Fjson%2Fcaps_lock_enhancement.json
-```
-
 3. Open Karabiner, Tab "ComplexModification", Button "Add Item", and enable entries you like.
-4. Default conf file path is `$HOME/.config/karabiner/assets/complex_modifications`. Modify it if you like.
+4. Default conf file path is `$HOME/.config/karabiner/assets/complex_modifications`.
 5. Enable functions: `[App] karabiner-elements -> [Tab] Complex Modification -> Add Item`
-
 
 
 #### Notice
 
 - Asset directory: `$HOME/.config/karabiner/assets/complex_modifications`
-
 
 - Main conf file path: `$HOME/.config/karabiner/karabiner.json`
 
@@ -45,10 +28,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
   `Karabiner -> Function Keys -> Use all F1, F2, etc. keys as standard function keys  `
 
 
-
-
-
-## Usage (mac)
+## Usage
 
 ![](images/keyboard.png)
 

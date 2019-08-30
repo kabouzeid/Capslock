@@ -1,10 +1,10 @@
 {
   "title": "Capslock Enhancement",
-  "author": "Vonng(fengruohang@outlook.com)",
-  "homepage": "https://github.com/Vonng/Capslock",
+  "author": "kabouzeid, forked from Vonng(fengruohang@outlook.com)",
+  "homepage": "https://github.com/kabouzeid/Capslock",
   "hostpage": "https://pqrs.org/osx/karabiner/complex_modifications/",
-  "manual": "https://github.com/Vonng/Capslock/tree/master/mac",
-  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Vonng/Capslock/master/mac/capslock.json",
+  "manual": "https://github.com/kabouzeid/Capslock/tree/master",
+  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/kabouzeid/Capslock/master/capslock.json",
   "rules": [
     {
       "description": "CapsLock to Hyper/Escape",
@@ -2288,7 +2288,7 @@
       ]
     },
     {
-      "description": "Hyper Misc (Check https://github.com/Vonng/Capslock for all details)",
+      "description": "Hyper Misc (Check https://github.com/kabouzeid/Capslock for all details)",
       "manipulators": [
         {
           "type": "basic",
