@@ -524,91 +524,7 @@
         },
         {
           "from": {
-            "key_code": "i",
-            "modifiers": {
-              "mandatory": [
-                "left_command",
-                "right_command",
-                "right_control",
-                "right_shift",
-                "right_option"
-              ]
-            }
-          },
-          "to": [
-            {
-              "key_code": "home",
-              "modifiers": [
-                "left_shift"
-              ]
-            }
-          ],
-          "type": "basic"
-        },
-        {
-          "from": {
-            "key_code": "i",
-            "modifiers": {
-              "mandatory": [
-                "right_command",
-                "right_control",
-                "right_shift",
-                "right_option"
-              ]
-            }
-          },
-          "to": [
-            {
-              "key_code": "home"
-            }
-          ],
-          "type": "basic"
-        },
-        {
-          "from": {
-            "key_code": "o",
-            "modifiers": {
-              "mandatory": [
-                "left_command",
-                "right_command",
-                "right_control",
-                "right_shift",
-                "right_option"
-              ]
-            }
-          },
-          "to": [
-            {
-              "key_code": "end",
-              "modifiers": [
-                "left_shift"
-              ]
-            }
-          ],
-          "type": "basic"
-        },
-        {
-          "from": {
-            "key_code": "o",
-            "modifiers": {
-              "mandatory": [
-                "right_command",
-                "right_control",
-                "right_shift",
-                "right_option"
-              ]
-            }
-          },
-          "to": [
-            {
-              "key_code": "end"
-            }
-          ],
-          "type": "basic"
-        },
-        {
-          "from": {
-            "key_code": "p",
+            "key_code": "d",
             "modifiers": {
               "mandatory": [
                 "left_command",
@@ -631,7 +547,7 @@
         },
         {
           "from": {
-            "key_code": "p",
+            "key_code": "d",
             "modifiers": {
               "mandatory": [
                 "right_command",
