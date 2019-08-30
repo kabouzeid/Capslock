@@ -73,11 +73,13 @@
     "T",
     "Y",
     {
-      "c": "#ebd400"
+      "c": "#ebd400",
+      "t": "#000000\n#ff0000"
     },
-    "PgUp",
+    "PgUp\n⇧PgUp",
     {
-      "c": "#cccccc"
+      "c": "#cccccc",
+      "t": "#000000"
     },
     "I",
     "O",
@@ -109,11 +111,13 @@
     "A",
     "S",
     {
-      "c": "#ebd400"
+      "c": "#ebd400",
+      "t": "#000000\n#ff0000"
     },
-    "PgDn",
+    "PgDn\n⇧PgDn",
     {
-      "c": "#cccccc"
+      "c": "#cccccc",
+      "t": "#000000"
     },
     "F",
     "G",
@@ -148,13 +152,9 @@
     "C",
     "V",
     {
-      "c": "#ebd400",
-      "t": "#000000\n3ff0000"
+      "c": "#ebd400"
     },
     "Tmux (⌃B)",
-    {
-      "t": "#000000"
-    },
     "Delete word left",
     "Delete char left",
     "Delete char right",

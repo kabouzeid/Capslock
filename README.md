@@ -25,6 +25,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 ## Usage
 
 ![](images/hyper-layout.png)
+Made with <http://keyboard-layout-editor.com>.
 
 ### Basic
 
